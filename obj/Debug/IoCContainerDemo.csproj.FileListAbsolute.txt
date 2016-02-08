@@ -1,0 +1,6 @@
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\bin\Debug\IoCContainerDemo.exe.config
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\bin\Debug\IoCContainerDemo.exe
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\bin\Debug\IoCContainerDemo.pdb
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\obj\Debug\IoCContainerDemo.csprojResolveAssemblyReference.cache
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\obj\Debug\IoCContainerDemo.exe
+c:\users\luke kavanagh\documents\visual studio 2015\Projects\IoCContainerDemo\IoCContainerDemo\obj\Debug\IoCContainerDemo.pdb
